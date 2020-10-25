@@ -1,0 +1,10 @@
+Предварительные знания
+Курс по основам JavaScript: https://www.vladilen.dev/offers/P5uoZnis/checkout
+Сложный JavaScript простым языком: https://www.youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT
+JavaScript собеседование: https://www.youtube.com/watch?v=M_pclb-58ZY
+Полный курс по EcmaScript: https://www.youtube.com/watch?v=Ti2Q4sQkNdU
+JavaScript: https://www.youtube.com/playlist?list=PLqKQF2ojwm3llpxoP1rzoz7TE2Fpo4Zhp
+
+Практика JavaScript: https://www.youtube.com/playlist?list=PLqKQF2ojwm3n-ufn3E-l6Y0VxDrj3hM5M
+
+Мой Youtube канал: https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw
