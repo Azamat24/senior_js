@@ -1,0 +1,10 @@
+Следующие шаги
+Angular 9: https://clc.to/angular
+
+React Native: https://clc.to/rnative
+
+ReactJS: https://clc.to/react
+
+NodeJS: https://clc.to/nodejs
+
+Angular Fullstack (MEAN): https://clc.to/fullstack
