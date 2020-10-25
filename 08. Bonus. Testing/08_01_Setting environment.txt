@@ -1,0 +1,2 @@
+Настройка окружения
+Курс по Jest: https://www.youtube.com/watch?v=IEDe8jl5efU
