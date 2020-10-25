@@ -1,0 +1,4 @@
+Добавление прослушки событий
+Про контекст: https://www.youtube.com/watch?v=UGapN-hrekw
+
+Как создать свой bind (очень полезное видео для понимания того, как это работает): https://www.youtube.com/watch?v=fJqYa3BuwaU

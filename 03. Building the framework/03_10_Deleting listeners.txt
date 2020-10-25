@@ -1,0 +1,2 @@
+Удаление слушателей
+Про bind: https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/bind

@@ -1,0 +1,2 @@
+Класс для работы с DOM
+Ролик про дебаг JavaScript: https://www.youtube.com/watch?v=20UsCQzUOIE
