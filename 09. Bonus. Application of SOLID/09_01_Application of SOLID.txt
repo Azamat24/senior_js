@@ -1,0 +1,2 @@
+Применение SOLID
+Подробно про SOLID: https://www.youtube.com/watch?v=xq13wiqvcTc
