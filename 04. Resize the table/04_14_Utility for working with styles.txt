@@ -1,0 +1,4 @@
+Утилита для работы со стилями
+Про for in: https://www.youtube.com/watch?v=cS6nTVNzOPw
+
+Object.Keys: https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
