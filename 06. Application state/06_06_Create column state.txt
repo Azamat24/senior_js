@@ -1,0 +1,2 @@
+Создание состояния колонок
+Про LocalStorage: https://www.youtube.com/watch?v=3-bZ7gLVSzo
