@@ -1,0 +1,4 @@
+Выбор группы элементов
+Про HOC методы массивов (в том числе reduce): https://www.youtube.com/watch?v=nEabP9CYCAQ
+
+Про деструктуризацию: https://www.youtube.com/watch?v=wWYokY0Pt2M
