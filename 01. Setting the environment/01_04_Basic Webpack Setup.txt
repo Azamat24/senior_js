@@ -1,0 +1,6 @@
+
+Базовая настройка Webpack
+Курс по NodeJS: https://www.youtube.com/watch?v=3aGSqasVPsI
+Курс по Webpack: https://www.youtube.com/watch?v=eSaF8NXeNsA
+
+Если вам интересно более детально ознакомиться с NodeJS, то вот ссылка на мой полный курс по данной технологии: https://clc.to/nodejs
